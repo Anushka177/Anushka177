@@ -16,7 +16,11 @@ Pursuing Bachelor’s of Computer Science Engineering from Acropolis Institute o
     <li> High School Certificate (10th) from CBSE Board with <b>95%</b> in the year 2017</li>
 </ul>
 
-
+## EXPERIENCE:
+<h3>Summer Training at Wipro</h3>
+Java FullStack Development</b> <br>
+<h3>Persistent Martian Summer Intern</h3>
+Basics of Linux, Data Structures, DBMS, Java</b> <br>
 
 ## TECHNICAL SKILLS:
 <ul>
